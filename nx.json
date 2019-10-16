@@ -1,0 +1,24 @@
+{
+  "npmScope": "holzgerlingen-nx",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "boom-e2e": {
+      "tags": []
+    },
+    "boom": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interfaces": {
+      "tags": []
+    }
+  }
+}
