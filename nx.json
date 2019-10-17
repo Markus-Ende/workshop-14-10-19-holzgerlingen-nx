@@ -12,12 +12,21 @@
       "tags": []
     },
     "boom": {
-      "tags": []
+      "tags": ["scope:boom"]
     },
     "api": {
       "tags": []
     },
     "api-interfaces": {
+      "tags": ["scope:boom"]
+    },
+    "pow-e2e": {
+      "tags": []
+    },
+    "pow": {
+      "tags": []
+    },
+    "ui-components": {
       "tags": []
     }
   }

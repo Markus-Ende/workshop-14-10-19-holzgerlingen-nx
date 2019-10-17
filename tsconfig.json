@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@holzgerlingen-nx/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@holzgerlingen-nx/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@holzgerlingen-nx/ui-components": ["libs/ui-components/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
